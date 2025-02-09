@@ -12,3 +12,4 @@ class GfG {
     }
     return new int [] {odd,even};
    }
+}
