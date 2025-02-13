@@ -1,0 +1,317 @@
+Strings - 100 Questions
+
+Easy (1-40)
+
+1. Reverse a string
+
+
+2. Check if a string is a palindrome
+
+
+3. Convert uppercase characters to lowercase and vice versa
+
+
+4. Count vowels and consonants in a string
+
+
+5. Count the frequency of each character in a string
+
+
+6. Find the first non-repeating character in a string
+
+
+7. Remove spaces from a string
+
+
+8. Remove all occurrences of a given character from a string
+
+
+9. Find the length of the longest word in a sentence
+
+
+10. Replace all spaces in a string with %20 (URLify)
+
+
+11. Check if two strings are anagrams
+
+
+12. Find the lexicographic rank of a string
+
+
+13. Check if a string contains only digits
+
+
+14. Find the longest common prefix among an array of strings
+
+
+15. Implement strstr() function (substring search)
+
+
+16. Find the maximum occurring character in a string
+
+
+17. Find the minimum occurring character in a string
+
+
+18. Reverse each word in a sentence
+
+
+19. Find the length of the last word in a string
+
+
+20. Convert Roman numerals to an integer
+
+
+21. Convert an integer to Roman numerals
+
+
+22. Remove adjacent duplicate characters from a string
+
+
+23. Check if two strings are rotations of each other
+
+
+24. Sort characters of a string in ascending order
+
+
+25. Find the largest word in a string
+
+
+26. Implement a function to compare two version numbers
+
+
+27. Toggle each character’s case in a string
+
+
+28. Check if one string is a subsequence of another
+
+
+29. Find all duplicate characters in a string
+
+
+30. Convert a given number to words
+
+
+31. Implement a function to remove duplicate words from a string
+
+
+32. Print all permutations of a string
+
+
+33. Find the length of the longest substring without repeating characters
+
+
+34. Count the number of words in a string
+
+
+35. Find the longest repeating character sequence in a string
+
+
+36. Find all substrings of a given string
+
+
+37. Convert a string to an integer (Implement atoi())
+
+
+38. Convert an integer to a string
+
+
+39. Find the first occurrence of a word in a sentence
+
+
+40. Find the number of times a pattern appears in a text
+
+
+
+
+---
+
+Medium (41-80)
+
+41. Longest palindromic substring
+
+
+42. Longest palindromic subsequence
+
+
+43. Reverse words in a string without reversing individual words
+
+
+44. Check if two strings are one edit distance apart
+
+
+45. Find the smallest window in a string that contains all characters of another string
+
+
+46. Find all anagrams of a pattern in a string
+
+
+47. Check if a string can be rearranged to form a palindrome
+
+
+48. Find the shortest palindrome by adding characters in front
+
+
+49. Find the longest repeating subsequence in a string
+
+
+50. Minimum insertions required to make a string palindrome
+
+
+51. Implement a function to check if a sentence is a pangram
+
+
+52. Find the minimum number of bracket reversals needed to balance a string
+
+
+53. Find the longest substring with at most two distinct characters
+
+
+54. Implement the Run-Length Encoding (RLE) algorithm
+
+
+55. Find the minimum number of swaps required to balance a string of brackets
+
+
+56. Find the lexicographically smallest or largest substring of a given length
+
+
+57. Encode and decode a given string (custom encoding)
+
+
+58. Implement a function to check if two sentences are isomorphic
+
+
+59. Find the longest word that can be formed by deleting characters from another string
+
+
+60. Implement a function to check if a given string follows a specific pattern
+
+
+61. Find all possible abbreviations of a given string
+
+
+62. Find the longest substring with equal numbers of 0s and 1s
+
+
+63. Implement a spell checker that suggests correct words for misspelled input
+
+
+64. Convert a given string to Pig Latin
+
+
+65. Count the number of palindromic substrings in a string
+
+
+66. Convert a given string to a Zig-Zag pattern
+
+
+67. Implement a function to remove extra spaces between words
+
+
+68. Find the most common word in a paragraph (excluding banned words)
+
+
+69. Implement a function to check if a string follows a given regular expression
+
+
+70. Implement the wildcard pattern matching algorithm
+
+
+71. Implement the Rabin-Karp substring search algorithm
+
+
+72. Implement the KMP (Knuth-Morris-Pratt) substring search algorithm
+
+
+73. Implement the Boyer-Moore substring search algorithm
+
+
+74. Convert a given string to its Base64 encoding
+
+
+75. Find the longest common subsequence between two strings
+
+
+76. Find the shortest common supersequence of two strings
+
+
+77. Implement Huffman Encoding for text compression
+
+
+78. Find the longest substring that appears at least k times
+
+
+79. Implement a function to check if a given string is a valid UTF-8 encoding
+
+
+80. Implement the Burrows-Wheeler Transform for string compression
+
+
+
+
+---
+
+Hard (81-100)
+
+81. Find the shortest substring that contains all distinct characters
+
+
+82. Implement a function to remove characters so that the remaining string is a palindrome
+
+
+83. Find the longest palindromic concatenation of two strings
+
+
+84. Find the number of ways to decode a given string of numbers
+
+
+85. Find the longest substring that contains only vowels
+
+
+86. Find the longest substring where each character appears an even number of times
+
+
+87. Implement an autocomplete system for a search engine
+
+
+88. Implement a function to sort a string based on frequency of characters
+
+
+89. Find the number of times a given string appears as a subsequence in another string
+
+
+90. Find the number of distinct subsequences of a given string
+
+
+91. Implement an efficient function to reverse only the vowels in a string
+
+
+92. Implement a function to find the longest balanced substring of parentheses
+
+
+93. Implement a function to determine if a string contains all words from a given dictionary
+
+
+94. Implement a function to split a string into words without spaces (word break problem)
+
+
+95. Implement a function to check if a given sentence follows a specific syntax pattern
+
+
+96. Implement a function to check if a string follows a certain grammatical structure
+
+
+97. Implement a function to compress a given string using Lempel-Ziv encoding
+
+
+98. Implement a function to find the longest substring where characters appear an odd number of times
+
+
+99. Implement an efficient function to find all palindromic partitions of a string
+
+
+100. Implement a function to check if a given string is reducible to an empty string by recursive deletion of adjacent duplicates
+
+
+

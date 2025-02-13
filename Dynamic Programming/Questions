@@ -1,0 +1,319 @@
+
+Dynamic Programming - 100 Questions
+
+Easy (1-40)
+
+1. Fibonacci series using DP (Top-down & Bottom-up)
+
+
+2. Factorial using DP
+
+
+3. Climbing Stairs (Frog Jump)
+
+
+4. Find the nth Tribonacci number
+
+
+5. Count ways to reach the nth stair
+
+
+6. Find the number of ways to reach the top of a ladder
+
+
+7. Find the minimum number of coins for a given sum (Coin Change I)
+
+
+8. Find the total number of ways to make a sum using given coins (Coin Change II)
+
+
+9. Minimum cost path in a grid
+
+
+10. Unique paths in a grid (Robot movement)
+
+
+11. Unique paths in a grid with obstacles
+
+
+12. Find the longest increasing subsequence
+
+
+13. Find the longest decreasing subsequence
+
+
+14. Find the longest bitonic subsequence
+
+
+15. Maximum sum of non-adjacent elements (House Robber Problem)
+
+
+16. Longest common subsequence (LCS)
+
+
+17. Edit distance (Convert one string to another)
+
+
+18. Minimum insertions required to make a string palindrome
+
+
+19. Wildcard pattern matching
+
+
+20. Word break problem
+
+
+21. Subset sum problem
+
+
+22. Partition problem (Can array be divided into two equal subsets?)
+
+
+23. Count the number of subsets with a given sum
+
+
+24. Longest common substring
+
+
+25. Longest repeating subsequence
+
+
+26. Shortest common supersequence
+
+
+27. Count the number of palindromic subsequences
+
+
+28. Print all subsets of a given set
+
+
+29. Find the nth Catalan number
+
+
+30. Matrix Chain Multiplication
+
+
+31. Boolean Parenthesization Problem
+
+
+32. Count ways to partition a set into k subsets
+
+
+33. Find the minimum number of multiplications required for matrix multiplication
+
+
+34. Egg Drop Problem (Minimum number of attempts)
+
+
+35. Painting Fence Algorithm
+
+
+36. Friends Pairing Problem
+
+
+37. Maximum sum rectangle in a 2D matrix
+
+
+38. Find the length of the longest arithmetic subsequence
+
+
+39. Count the number of ways to tile a floor using 1x2 and 2x1 tiles
+
+
+40. Find the minimum number of jumps to reach the end of an array
+
+
+
+
+---
+
+Medium (41-80)
+
+41. Find the largest square sub-matrix with all 1s
+
+
+42. Find the longest palindromic substring
+
+
+43. Find the longest palindromic subsequence
+
+
+44. Maximum profit in a stock-buy-sell problem (multiple transactions allowed)
+
+
+45. Maximum profit with at most two stock transactions
+
+
+46. Maximum profit with at most k stock transactions
+
+
+47. Maximum profit in a stock-buy-sell problem with cooldown
+
+
+48. Largest sum contiguous subarray (Kadane’s Algorithm)
+
+
+49. Maximum product subarray
+
+
+50. Find the maximum sum of non-overlapping subarrays
+
+
+51. Rod cutting problem
+
+
+52. Jump Game I (Can reach last index or not)
+
+
+53. Jump Game II (Minimum jumps required)
+
+
+54. Jump Game III (Reachability from an index)
+
+
+55. Minimum steps to reduce a number to 1 (Dividing by 2, 3, or subtracting 1)
+
+
+56. Count the number of distinct subsequences
+
+
+57. Count the number of ways to decode a message (Letter Combinations of a Phone Number)
+
+
+58. Find the longest chain of pairs
+
+
+59. Count the number of ways to climb a ladder with variable jumps
+
+
+60. Maximal rectangle in a binary matrix
+
+
+61. Cherry Pickup (Collect maximum cherries)
+
+
+62. Find the shortest path in a weighted DAG
+
+
+63. Find the minimum cost to cut a rod into pieces
+
+
+64. Longest alternating subsequence
+
+
+65. Maximum points collected from a 2D grid
+
+
+66. Find the number of ways to make a string palindrome using insertions
+
+
+67. Find the minimum sum partition of an array
+
+
+68. Partition array into k subsets with equal sum
+
+
+69. Maximum number of nested pairs in a string
+
+
+70. Maximum number of ways to arrange people in a line
+
+
+71. Find the maximum number of boxes you can stack
+
+
+72. Find the minimum number of adjacent swaps to sort an array
+
+
+73. Find the maximum sum of any increasing subsequence
+
+
+74. Find the minimum cost to convert one array to another
+
+
+75. Count the number of ways to form a target sum
+
+
+76. Maximum sum of k disjoint subarrays
+
+
+77. Minimum number of squares that sum to a given number
+
+
+78. Find the length of the longest valid parentheses substring
+
+
+79. Find the length of the longest subarray with equal number of 0s and 1s
+
+
+80. Find the minimum operations required to make all elements in an array equal
+
+
+
+
+---
+
+Hard (81-100)
+
+81. Find the number of palindromic partitions of a string
+
+
+82. Word break problem with multiple partitions
+
+
+83. Maximum sum subarray with at most k deletions
+
+
+84. Find the maximum sum of an increasing circular subsequence
+
+
+85. Find the maximum weight independent set in a graph
+
+
+86. Implement the Traveling Salesman Problem (TSP) using DP
+
+
+87. Implement the Knapsack Problem using space optimization
+
+
+88. Maximum profit in a job scheduling problem with deadlines
+
+
+89. Maximum profit with an array of transaction fees in stock trading
+
+
+90. Find the longest subsequence with adjacent difference of at most 1
+
+
+91. Find the maximum sum of any k partitions of an array
+
+
+92. Find the longest subarray where each element appears an even number of times
+
+
+93. Implement the Box Stacking Problem
+
+
+94. Find the minimum edit distance between two words with insertions, deletions, and replacements
+
+
+95. Find the maximum number of ways to cut a string into palindrome partitions
+
+
+96. Find the number of ways to paint a grid with n colors
+
+
+97. Maximum sum of a path in a weighted grid
+
+
+98. Find the shortest path to reach a target number by multiplying/dividing
+
+
+99. Implement the Bitmask DP algorithm for Subset Sum problems
+
+
+100. Find the minimum cost to complete a project given dependencies and costs
+
+
+
+

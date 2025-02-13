@@ -1,0 +1,318 @@
+Arrays - 100 Questions
+
+Easy (1-40)
+
+1. Find the largest element in an array
+
+
+2. Find the smallest element in an array
+
+
+3. Reverse an array
+
+
+4. Check if an array is sorted
+
+
+5. Remove duplicates from a sorted array
+
+
+6. Rotate an array by k positions (left & right)
+
+
+7. Move all zeroes to the end
+
+
+8. Find the missing number in an array (1 to N)
+
+
+9. Find the duplicate number in an array
+
+
+10. Find the second largest and second smallest element
+
+
+11. Find the union of two sorted arrays
+
+
+12. Find the intersection of two sorted arrays
+
+
+13. Merge two sorted arrays without extra space
+
+
+14. Sort an array of 0s, 1s, and 2s (Dutch National Flag problem)
+
+
+15. Find the maximum difference between two elements (larger element comes after the smaller one)
+
+
+16. Find the majority element (appears more than n/2 times)
+
+
+17. Find the two numbers that sum up to a given target (Two Sum problem)
+
+
+18. Find common elements in three sorted arrays
+
+
+19. Check if a subarray with sum 0 exists
+
+
+20. Find the subarray with a given sum (Sliding Window approach)
+
+
+21. Find the equilibrium index of an array
+
+
+22. Left Rotate an array by one position
+
+
+23. Right Rotate an array by one position
+
+
+24. Find the largest contiguous subarray sum (Kadane’s Algorithm)
+
+
+25. Find the frequency of each element in an array
+
+
+26. Find the count of pairs with a given sum
+
+
+27. Find the first repeating element in an array
+
+
+28. Find the first non-repeating element in an array
+
+
+29. Find the largest three distinct elements in an array
+
+
+30. Check if two arrays are equal or not
+
+
+31. Find the smallest positive missing number
+
+
+32. Find the row with the maximum number of 1s in a binary matrix
+
+
+33. Count the number of occurrences of a given number in a sorted array
+
+
+34. Find the next greater element for each element in an array
+
+
+35. Find the minimum adjacent swaps required to sort an array
+
+
+36. Find the closest pair from two sorted arrays
+
+
+37. Find the maximum sum of k consecutive elements (Sliding Window)
+
+
+38. Find the minimum and maximum sum of k consecutive elements
+
+
+39. Find the minimum difference between any two elements in an array
+
+
+40. Find the maximum sum increasing subsequence
+
+
+
+
+---
+
+Medium (41-80)
+
+41. Find the longest consecutive sequence in an array
+
+
+42. Rearrange the array alternatively (first max, first min, second max, second min, etc.)
+
+
+43. Find the product of array except self (without using division)
+
+
+44. Rearrange positive and negative numbers alternatively
+
+
+45. Count Inversions in an array
+
+
+46. Find the subarray with the largest product
+
+
+47. Merge overlapping intervals
+
+
+48. Find the missing and duplicate elements in an array
+
+
+49. Find the next permutation of a given sequence
+
+
+50. Find the largest sum contiguous circular subarray
+
+
+51. Find the minimum swaps required to bring elements less than k together
+
+
+52. Find the leaders in an array (elements that are greater than all elements to their right)
+
+
+53. Find the count of smaller elements on the right
+
+
+54. Find the maximum sum of non-adjacent elements
+
+
+55. Find the maximum bitwise XOR of two numbers in an array
+
+
+56. Check if an array is a subset of another array
+
+
+57. Find the minimum number of platforms required for a railway station
+
+
+58. Implement a min heap and max heap
+
+
+59. Convert a binary array to an integer
+
+
+60. Find the kth smallest and kth largest element in an array
+
+
+61. Find the median of two sorted arrays of different sizes
+
+
+62. Find the minimum difference between two subsets of an array (Partition problem)
+
+
+63. Find the longest subarray with a given sum k
+
+
+64. Count the number of subarrays with XOR equal to k
+
+
+65. Find the smallest window in an array that needs to be sorted
+
+
+66. Find the longest subarray with equal number of 0s and 1s
+
+
+67. Find the minimum sum of two subsets in a partitioned array
+
+
+68. Find the maximum sum rectangle in a 2D matrix
+
+
+69. Find the row with the maximum sum in a matrix
+
+
+70. Find the column with the maximum sum in a matrix
+
+
+71. Rotate a matrix by 90 degrees
+
+
+72. Rotate a matrix by 180 degrees
+
+
+73. Print a matrix in spiral order
+
+
+74. Transpose of a matrix
+
+
+75. Check if a matrix is symmetric
+
+
+76. Find the largest square sub-matrix with all 1s
+
+
+77. Find the largest rectangle in a histogram
+
+
+78. Find the maximum area of an island in a 2D grid
+
+
+79. Find the kth smallest sum of a sorted matrix
+
+
+80. Check if a matrix is a magic square
+
+
+
+
+---
+
+Hard (81-100)
+
+81. Find the minimum number of jumps to reach the end of an array
+
+
+82. Maximum sum of M non-overlapping subarrays
+
+
+83. Count the number of subarrays whose sum is divisible by k
+
+
+84. Find the shortest subarray with a sum at least k
+
+
+85. Find the length of the longest increasing subarray
+
+
+86. Find the number of ways to partition an array into two subsets with equal sum
+
+
+87. Implement the Skyline problem using arrays
+
+
+88. Find the sum of the subarray closest to 0
+
+
+89. Find the minimum number of operations to make an array palindrome
+
+
+90. Find the first missing positive integer
+
+
+91. Find the maximum sum of k disjoint subarrays
+
+
+92. Find the largest number possible from an array of numbers
+
+
+93. Find the smallest range covering elements from k sorted lists
+
+
+94. Find the maximum subarray sum using the divide-and-conquer approach
+
+
+95. Find the maximum subarray sum using a segment tree
+
+
+96. Implement an LRU Cache using an array
+
+
+97. Implement a sliding window maximum using a deque
+
+
+98. Find the number of valid subarrays that satisfy a given condition
+
+
+99. Find the minimum number of moves to make all elements in an array equal
+
+
+100. Check if an array can be split into two equal sum subarrays
+
+
+
+
