@@ -2,37 +2,37 @@ Arrays - 100 Questions
 
 Easy (1-40)
 
-1. Find the largest element in an array
+1. Find the largest element in an array             - 100%
 
 
-2. Find the smallest element in an array
+2. Find the smallest element in an array            - 100%
 
 
-3. Reverse an array
+3. Reverse an array                                 - 50%
 
 
-4. Check if an array is sorted
+4. Check if an array is sorted                      - 50%
 
 
-5. Remove duplicates from a sorted array
+5. Remove duplicates from a sorted array            - 50%
 
 
-6. Rotate an array by k positions (left & right)
+6. Rotate an array by k positions (left & right)    - 50%
 
 
-7. Move all zeroes to the end
+7. Move all zeroes to the end                       - 50%
 
 
-8. Find the missing number in an array (1 to N)
+8. Find the missing number in an array (1 to N)     - 50%
 
 
-9. Find the duplicate number in an array
+9. Find the duplicate number in an array            - 50%
 
 
-10. Find the second largest and second smallest element
+10. Find the second largest and second smallest element         -50%
 
 
-11. Find the union of two sorted arrays
+11. Find the union of two sorted arrays                         - 50%
 
 
 12. Find the intersection of two sorted arrays

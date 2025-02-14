@@ -1,16 +1,19 @@
 import java.util.Arrays;
 import java.util.Scanner;
 class Sample {
-    static void reverseArray(int[] arr) {
-        int left = 0, right = arr.length - 1;
-        while (left < right) {
-            int temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
+    static void reverseArray(int arr[]){
+        int left=0;
+        int right=arr.length-1;
+        while(left<right){
+            int temp=arr[left];
+            arr[left]=arr[right];
+            arr[right]=temp;
             left++;
             right--;
         }
+
     }
+}
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
