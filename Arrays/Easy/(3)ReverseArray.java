@@ -3,9 +3,9 @@ import java.util.Scanner;
 class Sample {
     static void reverseArray(int arr[]){
         int left=0;
-        int right=arr.length-1;
+        int right=arr.lenght-1;
         while(left<right){
-            int temp=arr[left];
+            int tempp=arr[left];
             arr[left]=arr[right];
             arr[right]=temp;
             left++;

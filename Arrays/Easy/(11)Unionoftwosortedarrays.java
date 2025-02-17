@@ -10,7 +10,7 @@ static ArrayList<Integer> FindUnion(int arr1[], int arr2[], int n, int m) {
         }
         for(int res:s){
             Union.add(res);
-        return Union
+        return Union;
         }
     }
 }

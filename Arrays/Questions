@@ -8,37 +8,37 @@ Easy (1-40)
 2. Find the smallest element in an array            - 100%
 
 
-3. Reverse an array                                 - 50%
+3. Reverse an array                                 - 100%
 
 
-4. Check if an array is sorted                      - 50%
+4. Check if an array is sorted                      - 100%
 
 
-5. Remove duplicates from a sorted array            - 50%
+5. Remove duplicates from a sorted array            - 100%
 
 
 6. Rotate an array by k positions (left & right)    - 50%
 
 
-7. Move all zeroes to the end                       - 50%
+7. Move all zeroes to the end                       - 100%
 
 
-8. Find the missing number in an array (1 to N)     - 50%
+8. Find the missing number in an array (1 to N)     - 100%
 
 
-9. Find the duplicate number in an array            - 50%
+9. Find the duplicate number in an array            - 100%
 
 
-10. Find the second largest and second smallest element         -50%
+10. Find the second largest and second smallest element         -100%
 
 
-11. Find the union of two sorted arrays                         - 50%
+11. Find the union of two sorted arrays                         - 100%
 
 
-12. Find the intersection of two sorted arrays
+12. Find the intersection of two sorted arrays                  -  50%
 
 
-13. Merge two sorted arrays without extra space
+13. Merge two sorted arrays without extra space                 - 
 
 
 14. Sort an array of 0s, 1s, and 2s (Dutch National Flag problem)
