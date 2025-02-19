@@ -47,19 +47,19 @@ Easy (1-40)
 15. Find the maximum difference between two elements - 50%
 
 
-16. Find the majority element (appears more than n/2 times) - 
+16. Find the majority element (appears more than n/2 times) - 50%
 
 
-17. Find the two numbers that sum up to a given target (Two Sum problem)
+17. Find the two numbers that sum up to a given target (Two Sum problem)    - 100%
 
 
-18. Find common elements in three sorted arrays
+18. Find common elements in three sorted arrays     - 50%
 
 
-19. Check if a subarray with sum 0 exists
+19. Check if a subarray with sum 0 exists   - 50%
 
 
-20. Find the subarray with a given sum (Sliding Window approach)
+20. Find the subarray with a given sum (Sliding Window approach)   -     
 
 
 21. Find the equilibrium index of an array
@@ -74,7 +74,7 @@ Easy (1-40)
 24. Find the largest contiguous subarray sum (Kadane’s Algorithm)
 
 
-25. Find the frequency of each element in an array
+25. Find the frequency of each element in an array      - 50%
 
 
 26. Find the count of pairs with a given sum
